@@ -63,6 +63,7 @@
   <project name="android_vendor_amlogic_apps_DLNA" path="vendor/amlogic/common/apps/DLNA" remote="kvim3l" revision="dc7cc25a063670cc112ded94c61296dbac1e65a4" />
   <project name="android_vendor_amlogic_apps_DroidLiveTv" path="vendor/amlogic/common/apps/DroidLiveTv" remote="kvim3l" revision="f2aa1234e12701b34af39605a4678c4b6aee8bf4" />
   <project name="android_vendor_amlogic_apps_DroidTvSettings" path="vendor/amlogic/common/apps/DroidTvSettings" remote="kvim3l" revision="6bdbd7648c1b51cd91ee7f25bb0526aab22a77a0" />
+  <project name="android_packages_apps_TvSettings" path="packages/apps/TvSettings" remote="kvim3l"  revision="69145b51c6d2c556f83ffa6170e3ef21b14c9ab2" />
   <project name="android_vendor_amlogic_apps_Lightning" path="vendor/amlogic/common/apps/Lightning" remote="kvim3l" revision="c7c59dcb46a54f67233664d56e732c39422c1545" />
   <project name="android_vendor_amlogic_apps_FileBrowser" path="vendor/amlogic/common/apps/FileBrowser" remote="kvim3l" revision="e192d4f55cafe13d20ed433fee653f8713dbd315" />
   <project name="android_vendor_amlogic_apps_MboxLauncher2" path="vendor/amlogic/common/apps/MboxLauncher2" remote="kvim3l" revision="f8a80e2ab1c856bbb0c1aac200992a2321db49e7"/>
